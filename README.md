@@ -3,3 +3,4 @@
 
 ## member
 - 19fi088 nitta.ichito
+- 19fi003 aoki.riku
