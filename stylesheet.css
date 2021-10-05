@@ -3,7 +3,7 @@ body {
 }
 header {
     position:fixed;
-    background: rgb(231, 14, 14);
+    background: #CCC;
     padding: 20px 50px; /* ヘッダーに上下左右それぞれ余白を指定 */
     top: 0; /* 上下の固定位置を上から0pxにする */
     left: 0; /* 左右の固定位置を左から0pxにする */
