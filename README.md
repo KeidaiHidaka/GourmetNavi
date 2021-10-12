@@ -1,6 +1,9 @@
 # GourmetNavi
 電大グルメナビ_サバプロA5
 
+## URL
+- https://keidaihidaka.github.io/GourmetNavi/
+
 ## member
 - 19fi095 hidaka.keidai
 - 19fi088 nitta.ichito
