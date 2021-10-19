@@ -8,3 +8,4 @@
 - 19fi095 hidaka.keidai
 - 19fi088 nitta.ichito
 - 19fi003 aoki.riku
+- 19fi130 yoshida.wataru
